@@ -6,7 +6,7 @@
 
 Projeto Construído durante a Maratona Explore da Rocketseat Ministrado por Mayk Brito.
 
-[Visualizar Projeto](https://cavalcanted12.github.io/maratona-explorer-3-Menu-Digital/)
+[Visualizar Projeto](https://cavalcanted12.github.io/Maratona-Explorer3.0-Menu-Digital/)
 
 ## 🛠️⚙️💻 Tecnologias
 
