@@ -1,6 +1,6 @@
 # Maratona-Explorer
 
-![preview](./github/preview.png)
+![preview](./.github/preview.png)
 
 > Maratona Explorer
 
